@@ -284,6 +284,22 @@
       <span class="post-meta-item-text">阅读次数：</span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Changyan：</span>
+    
+    
+      <a title="changyan" href="/2020/02/29/%E6%8A%BD%E7%83%9F%E7%9A%84%E8%80%81%E7%93%B6/#SOHUCS" itemprop="discussionUrl">
+        <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2020/02/29/抽烟的老瓶/" itemprop="commentCount"></span>
+      </a>
+    
+  </span>
+  
+  
 </div>
 
         </div>
@@ -359,6 +375,7 @@
 
 
 
+    <div class="comments" id="SOHUCS"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -437,6 +454,18 @@
 
 
 
+
+  <script>
+  NexT.utils.loadComments('#SOHUCS', () => {
+    NexT.utils.getScript('https://changyan.sohu.com/upload/changyan.js', () => {
+      window.changyan.api.config({
+        appid: 'cyvijJKMg',
+        conf : 'fe722e218bfaef538c762e1464a8ff47'
+      });
+    });
+  });
+  </script>
+  <script src="https://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
 
 </body>
 </html>

@@ -274,6 +274,22 @@
       <span class="post-meta-item-text">阅读次数：</span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Changyan：</span>
+    
+    
+      <a title="changyan" href="/2020/05/02/%E5%92%8C%E5%B9%B3%E5%B9%B4%E4%BB%A3%E7%9A%84%E6%82%B2%E5%89%A7%E4%BA%A7%E7%89%A9/#SOHUCS" itemprop="discussionUrl">
+        <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2020/05/02/和平年代的悲剧产物/" itemprop="commentCount"></span>
+      </a>
+    
+  </span>
+  
+  
 </div>
 
         </div>
@@ -348,6 +364,7 @@
 
 
 
+    <div class="comments" id="SOHUCS"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -426,6 +443,18 @@
 
 
 
+
+  <script>
+  NexT.utils.loadComments('#SOHUCS', () => {
+    NexT.utils.getScript('https://changyan.sohu.com/upload/changyan.js', () => {
+      window.changyan.api.config({
+        appid: 'cyvijJKMg',
+        conf : 'fe722e218bfaef538c762e1464a8ff47'
+      });
+    });
+  });
+  </script>
+  <script src="https://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
 
 </body>
 </html>

@@ -273,6 +273,22 @@
       <span class="post-meta-item-text">阅读次数：</span>
       <span id="busuanzi_value_page_pv"></span>
     </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="far fa-comment"></i>
+      </span>
+      <span class="post-meta-item-text">Changyan：</span>
+    
+    
+      <a title="changyan" href="/2020/03/04/If%20you%20can%20dream%20it,%20you%20can%20do%20it.%EF%BC%88%E6%A2%A6%E6%98%AF%E8%A6%81%E6%9C%89%E7%9A%84%EF%BC%8C%E4%B8%87%E4%B8%80%E6%88%90%E4%BA%86%E5%91%A2%EF%BC%89/#SOHUCS" itemprop="discussionUrl">
+        <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2020/03/04/If you can dream it, you can do it.（梦是要有的，万一成了呢）/" itemprop="commentCount"></span>
+      </a>
+    
+  </span>
+  
+  
 </div>
 
         </div>
@@ -348,6 +364,7 @@
 
 
 
+    <div class="comments" id="SOHUCS"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -426,6 +443,18 @@
 
 
 
+
+  <script>
+  NexT.utils.loadComments('#SOHUCS', () => {
+    NexT.utils.getScript('https://changyan.sohu.com/upload/changyan.js', () => {
+      window.changyan.api.config({
+        appid: 'cyvijJKMg',
+        conf : 'fe722e218bfaef538c762e1464a8ff47'
+      });
+    });
+  });
+  </script>
+  <script src="https://assets.changyan.sohu.com/upload/plugins/plugins.count.js"></script>
 
 </body>
 </html>
