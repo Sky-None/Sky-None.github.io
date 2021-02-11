@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ls-cc.cn/"/>
-  <updated>2021-02-11T08:35:55.209Z</updated>
+  <updated>2021-02-11T08:50:10.504Z</updated>
   <id>http://ls-cc.cn/</id>
   
   <author>
@@ -21,16 +21,13 @@
     <link href="http://ls-cc.cn/2021/02/11/%E5%B0%8F%E5%88%98%E5%BE%88%E5%BF%99/"/>
     <id>http://ls-cc.cn/2021/02/11/小刘很忙/</id>
     <published>2021-02-11T08:24:03.000Z</published>
-    <updated>2021-02-11T08:35:55.209Z</updated>
+    <updated>2021-02-11T08:50:10.504Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小刘是个大忙人。</p><p>前些年美容院很火，</p><p>小刘就砸钱给美容院。</p><p>之后又流行卖文学书籍，</p><p>小刘就去网上卖二手书。</p><p>后来又兴炒股，</p><p>小刘马上开了个股户。</p><p>可惜打了个水漂，</p><p>亏了一屁股钱。</p><p>这么久过去了，</p><p>小刘还是很忙。</p><p>听说过几年AI会崛起，</p><p>小刘…</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小刘是个大忙人。</p><a id="more"></a><p>前些年美容院很火，</p><p>小刘就砸钱给美容院。</p><p>之后又流行卖文学书籍，</p><p>小刘就去网上卖二手书。</p><p>后来又兴炒股，</p><p>小刘马上开了个股户。</p><p>可惜打了个水漂，</p><p>亏了一屁股钱。</p><p>这么久过去了，</p><p>小刘还是很忙。</p><p>听说过几年AI会崛起，</p><p>小刘…</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
+      &lt;p&gt;小刘是个大忙人。&lt;/p&gt;
     
     </summary>
     
